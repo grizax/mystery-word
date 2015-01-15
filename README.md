@@ -115,7 +115,7 @@ PyGame is not a normal library. If you really want to try it, run the
 following:
 
 ```sh
-brew install sdl sdl_image sdl_mixer sdl_ttf portmidi
+brew install hg sdl sdl_image sdl_mixer sdl_ttf portmidi
 pip install hg+http://bitbucket.org/pygame/pygame
 ```
 
