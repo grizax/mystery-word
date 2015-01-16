@@ -93,8 +93,14 @@ again and the game begins again if they reply in the positive.
 
 ## Nightmare Mode
 
+**Option 1**:
+
 Use the [PyGame](http://pygame.org/news.html) or [Kivy](http://kivy.org/)
 libraries to make this a graphical experience.
+
+**Option 2**:
+
+Implement the [evil version of this game](http://nifty.stanford.edu/2011/schwarz-evil-hangman/).
 
 ## Notes
 
