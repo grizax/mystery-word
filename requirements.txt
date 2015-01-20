@@ -1,1 +1,5 @@
-pytest
+import pytest, random, string
+
+Must be able to pull a word from the Mac OS dictionary:  
+
+/usr/share/dict/words
